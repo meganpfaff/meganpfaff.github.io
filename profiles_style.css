@@ -1,0 +1,105 @@
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       margin: 0 auto;
+       padding-top: 5px;
+       height: 100%;
+    }
+
+    header {
+        background-color: #4a5f70;
+        color:white;
+        text-align:center;
+        padding:5px;
+        font-size: 20px;
+        display: block;
+        width: 790px;
+        font-family: Calibri;
+    }
+
+    h2 {
+        text-align: center;
+        font-family: Verdana;
+        color: #0a2d43;
+    }
+
+    nav {
+        line-height:30px;
+        background-color:#eeeeee;
+        height:614px;
+        width:150px;
+        display: inline-block;
+        vertical-align: top;
+        padding:2px;
+        font-size: 14px;
+        font-family: Verdana;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: black;
+    }
+
+    section {
+        width: 642px;
+        display: inline-block;
+    }
+
+    section img {
+        width: 30%;
+        
+    } 
+
+    .snowMiser {
+        background-color: #ebf2f6;
+    }
+
+    .elsa {
+        background-color: #ebf2f6;
+    }
+
+    .yeti {
+        background-color: #ebf2f6;
+    }
+
+    .facebook {
+        width: 20px;
+    }
+
+    section ul {
+        width: 60%; 
+        height: 100px;
+        list-style-type: none;
+        font-family: Verdana;
+        font-size: 12px;
+        float: right;
+        text-align: left;
+        list-style-type: none;
+        overflow: hidden; 
+    }
+
+    aside {
+        width: 125px;
+        display: inline-block;
+        vertical-align: top;
+        background-color:#eeeeee;
+        font-size: 18px;
+        min-height: 100%;
+        padding: 8px;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:#0d3653;
+        color:white;
+        text-align:center;
+        padding:5px;
+        display: block;
+        font-family: Verdana;
+        font-size: 12px;
+    }
